@@ -1,0 +1,12 @@
+# Godot-specific ignores
+.import/
+
+# Imported translations (automatically generated from CSV files)
+*.translation
+
+# System/tool-specific ignores
+.directory
+*~
+
+#Visual Studio Code ignores
+.vscode/
